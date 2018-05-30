@@ -1,0 +1,11 @@
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\OOP-Warrior-Game\bin\Debug\netcoreapp2.0\OOP-Warrior-Game.deps.json
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\OOP-Warrior-Game\bin\Debug\netcoreapp2.0\OOP-Warrior-Game.runtimeconfig.json
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\OOP-Warrior-Game\bin\Debug\netcoreapp2.0\OOP-Warrior-Game.runtimeconfig.dev.json
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\OOP-Warrior-Game\bin\Debug\netcoreapp2.0\OOP-Warrior-Game.dll
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\OOP-Warrior-Game\bin\Debug\netcoreapp2.0\OOP-Warrior-Game.pdb
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\OOP-Warrior-Game\obj\Debug\netcoreapp2.0\OOP-Warrior-Game.csprojAssemblyReference.cache
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\OOP-Warrior-Game\obj\Debug\netcoreapp2.0\OOP-Warrior-Game.csproj.CoreCompileInputs.cache
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\OOP-Warrior-Game\obj\Debug\netcoreapp2.0\OOP-Warrior-Game.AssemblyInfoInputs.cache
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\OOP-Warrior-Game\obj\Debug\netcoreapp2.0\OOP-Warrior-Game.AssemblyInfo.cs
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\OOP-Warrior-Game\obj\Debug\netcoreapp2.0\OOP-Warrior-Game.dll
+C:\Users\Kazhmere\NUCB\Git Repositories\Practice Code\OOP-Warrior-Game\obj\Debug\netcoreapp2.0\OOP-Warrior-Game.pdb
