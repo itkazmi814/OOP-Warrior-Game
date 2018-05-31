@@ -4,9 +4,9 @@ namespace WarriorWars.Equipment
 {
   class Weapon
   {
-    private int damage;
     private const int LIGHT_SIDE_DAMAGE = 5;
     private const int DARK_SIDE_DAMAGE = 5;
+    private int damage;
 
     public int Damage 
     {
@@ -24,7 +24,6 @@ namespace WarriorWars.Equipment
         case Faction.LightSide:
           damage = LIGHT_SIDE_DAMAGE;
           break;
-
         case Faction.DarkSide:
           damage = DARK_SIDE_DAMAGE;
           break;

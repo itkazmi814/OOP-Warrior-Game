@@ -23,7 +23,6 @@ namespace WarriorWars.Equipment
         case Faction.LightSide:
           armorPoints = LIGHT_SIDE_ARMOR;
           break;
-
         case Faction.DarkSide:
           armorPoints = DARK_SIDE_ARMOR;
           break;
